@@ -286,6 +286,11 @@ aside {
   margin-top: 20px;
 }
 
+#content #about #position-map {
+  display: flex;
+  justify-content: center;
+}
+
 .card-produk {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
   background: #ffbc80;
